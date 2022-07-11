@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/diptamRDC/Apex-Doc#readme",
   "dependencies": {
+    "celebrate": "^15.0.1",
     "express": "^4.18.1"
   }
 }
